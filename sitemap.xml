@@ -19,4 +19,10 @@
       <image:loc>http://ManuelBenecchi.it/images/logo-resume.svg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://ManuelBenecchi.it/assets/manuel-benecchi-cv-2021.pdf</loc>
+    <lastmod>2021-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
