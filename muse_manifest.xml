@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639393367817">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639393703132">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="339946641" ref="phone>index"/>
-      <file name="index.css" crc="507933464" ref="phone>index"/>
+      <file name="index.css" crc="340143988" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4046268862" seo="true" mt="1639393316212" redirect="true"/>
+    <file name="index.html" crc="3983500308" seo="true" mt="1639393663268" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
@@ -29,11 +29,9 @@
     <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="index"/>
     <file name="lente.svg" crc="398162541" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="lente_poster_.png" crc="143995344" ref="phone>index"/>
     <file name="logo-resume.svg" crc="4211902723" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo resume_poster_.png" crc="523867815" ref="phone>index"/>
