@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639396148881">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639396573392">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="339946641" ref="phone>index"/>
-      <file name="index.css" crc="3784318558" ref="phone>index"/>
+      <file name="index.css" crc="4040566190" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="501845260" seo="true" mt="1639396122412" redirect="true"/>
+    <file name="index.html" crc="331388116" seo="true" mt="1639396556964" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
@@ -22,20 +22,16 @@
   <folder name="images">
     <file name="prova test gmb muse.png" crc="445475365" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted-svg-14843x14.svg" crc="4110557736" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="phone>index"/>
     <file name="lente.svg" crc="398162541" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="lente_poster_.png" crc="143995344" ref="phone>index"/>
     <file name="logo-resume.svg" crc="4211902723" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo resume_poster_.png" crc="523867815" ref="phone>index"/>
