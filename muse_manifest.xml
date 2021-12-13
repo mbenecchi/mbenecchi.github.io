@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1638454433852">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639390805808">
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
-    <file name="master_a-master.css" crc="329684798" ref="index"/>
-    <file name="index.css" crc="351680437" ref="index"/>
+    <file name="master_a-master.css" crc="3811816808" ref="index"/>
+    <file name="index.css" crc="3836648999" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,5 +29,5 @@
     </file>
     <file name="logo resume_poster_.png" crc="523867815" ref="index"/>
   </folder>
-  <file name="index.html" crc="4128235853" seo="true" mt="1638454422602" redirect="true"/>
+  <file name="index.html" crc="440185865" seo="true" mt="1639390796909" redirect="true"/>
 </manifest>
