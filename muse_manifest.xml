@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639393703132">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639394083561">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="339946641" ref="phone>index"/>
-      <file name="index.css" crc="340143988" ref="phone>index"/>
+      <file name="index.css" crc="4151800780" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3983500308" seo="true" mt="1639393663268" redirect="true"/>
+    <file name="index.html" crc="286332942" seo="true" mt="1639394061341" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
