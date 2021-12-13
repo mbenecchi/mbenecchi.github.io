@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639410367791">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1639410972299">
   <folder name="assets">
     <file name="manuel-benecchi-cv-2021.pdf" crc="3989296180" seo="true" mt="1638191684000"/>
   </folder>
@@ -12,7 +12,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
     <file name="master_a-master.css" crc="4142834712" ref="index"/>
-    <file name="index.css" crc="3906121983" ref="index"/>
+    <file name="index.css" crc="327050863" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -25,24 +25,20 @@
   <folder name="images">
     <file name="prova test gmb muse.png" crc="445475365" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted-svg-14843x14.svg" crc="4110557736" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="phone>index"/>
+    <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="phone>index:index"/>
     <file name="lente.svg" crc="398162541" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="lente_poster_.png" crc="143995344" ref="phone>index"/>
+    <file name="lente_poster_.png" crc="143995344" ref="phone>index:index"/>
     <file name="logo-resume.svg" crc="4211902723" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="logo resume_poster_.png" crc="523867815" ref="phone>index"/>
+    <file name="logo resume_poster_.png" crc="523867815" ref="phone>index:index"/>
     <file name="favicon.ico" crc="3835043704" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="4107734365" seo="true" mt="1639410356679" redirect="true"/>
+  <file name="index.html" crc="4284570751" seo="true" mt="1639410960849" redirect="true"/>
 </manifest>
