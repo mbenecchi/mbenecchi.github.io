@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1644924038910">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1644925765864">
   <folder name="assets">
     <file name="manuel-benecchi-cv-2021.pdf" crc="3989296180" seo="true" mt="1638191684000"/>
   </folder>
@@ -7,7 +7,7 @@
       <file name="master_a-master.css" crc="3781380523" ref="phone>index"/>
       <file name="index.css" crc="491571766" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="57519548" seo="true" mt="1644924014436" redirect="true"/>
+    <file name="index.html" crc="4123580069" seo="true" mt="1644925755282" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
@@ -44,5 +44,5 @@
     <file name="logo resume_poster_.png" crc="523867815" ref="phone>index"/>
     <file name="favicon.ico" crc="3835043704" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="315042773" seo="true" mt="1644923962504" redirect="true"/>
+  <file name="index.html" crc="300217923" seo="true" mt="1644925741007" redirect="true"/>
 </manifest>
