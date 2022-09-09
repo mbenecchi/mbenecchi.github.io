@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1660830147580">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1662735062139">
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
     <file name="master_a-master.css" crc="194396484" ref="index"/>
-    <file name="index.css" crc="431880550" ref="index"/>
+    <file name="index.css" crc="4106599133" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="manuel-benecchi-cv-2021.pdf" crc="3989296180" seo="true" mt="1638191684000"/>
@@ -19,30 +19,26 @@
     <file name="favicon.ico" crc="3835043704" ref="phone>index"/>
     <file name="logo-resume.svg" crc="4211902723" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="logo resume_poster_.png" crc="523867815" ref="phone>index"/>
+    <file name="logo resume_poster_.png" crc="523867815" ref="phone>index:index"/>
     <file name="lente.svg" crc="398162541" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="lente_poster_.png" crc="143995344" ref="phone>index"/>
+    <file name="lente_poster_.png" crc="143995344" ref="phone>index:index"/>
     <file name="prova test gmb muse.png" crc="445475365" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted-svg-14843x14.svg" crc="4110557736" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="phone>index"/>
+    <file name="pasted svg 14843x14_poster_.png" crc="150107487" ref="phone>index:index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3781380523" ref="phone>index"/>
-      <file name="index.css" crc="3909115843" ref="phone>index"/>
+      <file name="index.css" crc="3983483752" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4276025040" seo="true" mt="1660830099177" redirect="true"/>
+    <file name="index.html" crc="316236893" seo="true" mt="1660830099177" redirect="true"/>
   </folder>
-  <file name="index.html" crc="524595721" seo="true" mt="1660830070831" redirect="true"/>
+  <file name="index.html" crc="145855104" seo="true" mt="1662735051820" redirect="true"/>
 </manifest>
