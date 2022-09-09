@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1662735062139">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ManuelBenecchi.it" resolutions="1x" timestamp="1662735473916">
   <folder name="css">
     <file name="site_global.css" crc="4006562204"/>
     <file name="master_a-master.css" crc="194396484" ref="index"/>
@@ -36,9 +36,9 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3781380523" ref="phone>index"/>
-      <file name="index.css" crc="3983483752" ref="phone>index"/>
+      <file name="index.css" crc="4220141919" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="316236893" seo="true" mt="1660830099177" redirect="true"/>
+    <file name="index.html" crc="3947263014" seo="true" mt="1662735458042" redirect="true"/>
   </folder>
   <file name="index.html" crc="145855104" seo="true" mt="1662735051820" redirect="true"/>
 </manifest>
